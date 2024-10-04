@@ -1,0 +1,4 @@
+name: EnchantableBottle
+version: '1.0-SNAPSHOT'
+main: org.nanshang.enchantableBottle.EnchantableBottle
+api-version: '1.21'
