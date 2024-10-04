@@ -2,9 +2,9 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ "main" ]  # 或者你希望触发构建的分支名称
+    branches: [ "master" ]  # 或者你希望触发构建的分支名称
   pull_request:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   build:
